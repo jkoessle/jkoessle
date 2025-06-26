@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkoessle, working as a MLOps Engineer @ knecon
+- 👋 Hi, I’m @jkoessle, working as a ML Engineer @ UIS
 - 👀 I’m interested in machine learning, neural networks and data science
 - 🌱 I’m currently learning C++
 <!---
